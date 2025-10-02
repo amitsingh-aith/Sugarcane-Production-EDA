@@ -19,7 +19,6 @@ Using **Python (Pandas, Matplotlib, Seaborn)**, I performed data cleaning, explo
 - Seaborn
 
 ## 📌 Key Insights
-- [Add 2–3 cool findings you discovered from your dataset, e.g.:]
   - Asia leads global sugarcane production by a large margin
   - Acreage and production are highly correlated across most countries
   - Some countries achieve higher yield despite smaller acreage
